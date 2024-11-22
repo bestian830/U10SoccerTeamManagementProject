@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="U10SoccerTeamManagerment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/U10SoccerTeamManagerment_jar</output-path>
+    <root id="archive" name="U10SoccerTeamManagerment.jar">
+      <element id="module-output" name="U10SoccerTeamManagerment" />
+    </root>
+  </artifact>
+</component>
